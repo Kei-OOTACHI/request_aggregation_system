@@ -1,0 +1,2 @@
+# request_aggregation_system
+申請集計自動化システムのSSのコンテナバインドスクリプト
